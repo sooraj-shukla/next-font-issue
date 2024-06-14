@@ -14,7 +14,16 @@
     "skipLibCheck": true,
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
-    "paths": {}
+    "paths": {
+      "@next-font-issue/providers": ["providers/src/index.ts"],
+      "@next-font-issue/providers-buildable": [
+        "providers-buildable/src/index.ts"
+      ],
+      "@next-font-issue/providers-buildable/server": [
+        "providers-buildable/src/server.ts"
+      ],
+      "@next-font-issue/providers/server": ["providers/src/server.ts"]
+    }
   },
   "exclude": ["node_modules", "tmp"]
 }
