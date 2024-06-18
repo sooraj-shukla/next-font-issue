@@ -5,7 +5,7 @@
 <h2>Use Cases</h2>
 <ol>
     <li>Creating a custom theme library for various Next.js applications.</li>
-    <li>Utilizing [buildable libraries](https://nx.dev/concepts/buildable-and-publishable-libraries#buildable-libraries) to enable incremental building capabilities.</li>
+    <li>Utilizing <a href="https://nx.dev/concepts/buildable-and-publishable-libraries#buildable-libraries">buildable libraries</a> to enable incremental building capabilities.</li>
 </ol>
 
 <h2>Libraries in this repo</h2>
